@@ -1,0 +1,57 @@
+1. Linux L1 Support Engineer Requirements
+L1 (Level 1) support roles focus on frontline troubleshooting, incident management, and basic system administration. Key requirements include:
+•	Technical Skills:
+o	Basic Linux OS knowledge (installation, user management, file systems) 511.
+o	Familiarity with server monitoring tools (e.g., Nagios) and hosting control panels (cPanel/WHM/Plesk) 511.
+o	Understanding of networking protocols (SMTP, HTTP, FTP, DNS) 57.
+o	Basic troubleshooting for hardware, software, and network connectivity issues 1112.
+•	Certifications:
+o	Preferred certifications: RHCSA (Red Hat Certified System Administrator), CompTIA Linux+, or equivalent 57.
+•	Experience:
+o	1+ years of experience in technical support or system administration 511.
+o	Experience with ticketing systems (JIRA, Zendesk) and adhering to SLAs 38.
+•	Soft Skills:
+o	Strong communication skills for user interaction and updates 311.
+o	Ability to escalate complex issues to L2/L3 teams 312.
+________________________________________
+2. Linux L2 Support Engineer Requirements
+L2 (Level 2) roles involve deeper technical expertise and advanced problem-solving. Key requirements include:
+•	Technical Skills:
+o	Advanced Linux administration (kernel tuning, scripting in Bash/Python/Perl) 713.
+o	Proficiency in virtualization (VMware, KVM) and cloud platforms (AWS, Azure) 712.
+o	Database management (MySQL, PostgreSQL) and web server configuration (Apache, Nginx) 59.
+o	SAN storage systems (iSCSI/FC) and network security (firewalls, VPNs) 79.
+•	Certifications:
+o	RHCE (Red Hat Certified Engineer), ITIL, or CISSP 79.
+•	Experience:
+o	3–4+ years in Linux system administration or DevOps 79.
+o	Experience with automation tools (Ansible, Terraform) and CI/CD pipelines 13.
+•	Soft Skills:
+o	Root cause analysis and collaboration with development/network teams 912.
+o	Training end-users and documenting solutions 911.
+________________________________________
+3. General Linux-Related Job Requirements
+For broader Linux roles (e.g., DevOps, System Administrator):
+•	Core Skills:
+o	Expertise in scripting (Python, Bash) and containerization (Docker, Kubernetes) 713.
+o	Infrastructure-as-Code (Terraform, CloudFormation) 13.
+o	Security practices (patch management, SELinux, auditing) 711.
+•	Certifications:
+o	RHCE, CKA (Certified Kubernetes Administrator), or AWS/Azure certifications 712.
+•	Experience:
+o	5+ years for senior roles, often requiring cloud migration or large-scale deployment experience 79.
+________________________________________
+Key Trends & Employer Expectations
+•	Automation & Cloud: Companies prioritize candidates with cloud (AWS, Azure) and automation skills to reduce manual tasks 812.
+•	24/7 Availability: Willingness to work in shifts or on-call rotations is common for support roles 511.
+•	Soft Skills: Customer empathy and teamwork are emphasized across all levels 1112.
+________________________________________
+Example Job Listings
+1.	Linux System Admin Level 1 (Everdata):
+o	RHCE preferred, 1+ year experience, 24/7 shift readiness 5.
+2.	Linux Support Engineer (Velvet Jobs):
+o	RHCE/ITIL, SAN/virtualization expertise, scripting skills 7.
+3.	IT Support Engineer (UAE):
+o	Ubuntu/Windows OS, hardware troubleshooting, network configurations 6.
+For detailed job postings, refer to company career pages or platforms like LinkedIn/Naukri using keywords like "Linux Support Engineer" or "DevOps Engineer".
+
