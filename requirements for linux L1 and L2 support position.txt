@@ -72,8 +72,9 @@ Scripting & Tools:
 Familiarity with shell scripting (e.g., Bash) is advantageous. Knowledge of basic monitoring tools and ticketing systems (such as Jira) is often mentioned.
 Certifications (Preferred):
 Some positions prefer or require certifications such as CompTIA Linux+, Linux Professional Institute Certification (LPIC), or Red Hat Certified System Administrator (RHCSA).
-Soft Skills & Job Responsibilities:
 
+Soft Skills & Job Responsibilities:
+`````````````````````````````````
 Customer Support & Communication:
 Excellent verbal and written communication skills are critical because the role involves addressing user tickets, troubleshooting issues via phone or email, and documenting resolution steps.
 Teamwork & Problem Solving:
@@ -101,6 +102,7 @@ Certifications (Preferred):
 Beyond basic certifications, employers may prefer or require LPIC Level 1 or higher, RHCSA/RHCE, or equivalent credentials to verify advanced competency.
 Specialized Knowledge:
 Some postings call for familiarity with cloud platforms (e.g., AWS), virtualization, and storage systems, as well as an understanding of network protocols and tools used in production support environments.
+
 Soft Skills & Job Responsibilities:
 
 Escalation & Troubleshooting:
@@ -181,7 +183,7 @@ DevOps Engineer: Knowledge of Linux and various automation tools. Experience in 
 The specific requirements for Linux L1 and L2 support positions (or any Linux-related job) can vary significantly depending on the company, the role, and the industry. However, there are some common skills and qualifications that are frequently sought after. Here's a breakdown based on information gathered from company websites and social sites like LinkedIn, Naukri, and Indeed:
 
 General Linux Skills
-
+````````````````````
 Fundamental Knowledge: A solid understanding of the Linux operating system, including its architecture, file system, command-line interface, and basic commands.   
 Installation and Configuration: Ability to install, configure, and maintain Linux systems.   
 Troubleshooting: Strong problem-solving skills to diagnose and resolve Linux-related issues.   
